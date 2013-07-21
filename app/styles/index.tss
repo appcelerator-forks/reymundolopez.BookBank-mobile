@@ -1,8 +1,20 @@
-".container": {
-	backgroundColor:"white"
+"#UsernameTextField" : {
+	top : 10,
+	hintText : L("HINT_USERNAME")
 },
-"Label": {
-	width: Ti.UI.SIZE,
-	height: Ti.UI.SIZE,
-	color: "#000"
-} 
+"#PasswordTextField" : {
+	top : 10,
+	hintText : L("HINT_PASSWORD")
+},
+"#LoginWrapper" : {
+	width : Ti.UI.FILL,
+	height : "50%",
+	layout : "vertical"
+},
+"#Logo" : {
+	width : 300,
+	height : 70
+},
+"#SigninButton" : {
+	top : 10
+}

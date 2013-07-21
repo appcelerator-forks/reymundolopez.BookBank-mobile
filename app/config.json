@@ -5,5 +5,7 @@
 	"env:production": {}, 
 	"os:ios": {}, 
 	"os:android": {}, 
-	"dependencies": {}
+	"dependencies": {
+		"com.orthlieb.navigationgroup": "1.0"
+	}
 }

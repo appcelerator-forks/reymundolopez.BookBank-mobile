@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="HINT_USERNAME">rey@bookbank.com</string>
+	<string name="HINT_PASSWORD">Contraseña</string>
+	<string name="HINT_NAME">Nombre completo</string>
+	<string name="HINT_EMAIL">rey@bookbank.com</string>
+	<string name="HINT_CREDITCARD">Número de tarjeta de credito</string>
+
+	<string name="CONTINUE">Continuar</string>
+	<string name="DONE">Listo</string>
+	<string name="BACK">Atras</string>
+	<string name="CANCEL">Cancelar</string>
+	<string name="LOGIN">Entrar</string>
+	<string name="FORGOT_PASSWORD">Olvide mi password</string>
+	<string name="SIGNUP">Crear cuenta</string>
+	<string name="HINT_FIRSTNAME">rey@bookbank.com</string>
+</resources>

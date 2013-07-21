@@ -1,5 +1,18 @@
 <Alloy>
-	<Window class="container">
-		<Label id="label" onClick="doClick">Hello, World</Label>
+	<Window id="Win">
+
+		<View id="LoginWrapper">
+
+			<ImageView id="Logo" />
+
+			<TextField id="UsernameTextField" />
+
+			<TextField id="PasswordTextField" />
+
+			<Button id="SigninButton" class="bigButton" titleid="LOGIN" />
+
+			<Label id="SignupLabel" textid="SIGNUP" />
+
+		</View>
 	</Window>
 </Alloy>

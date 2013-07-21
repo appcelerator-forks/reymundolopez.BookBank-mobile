@@ -1,0 +1,9 @@
+<Alloy>
+	<Window id="Win">
+		<TableView id="MenuTableView">
+			<TableViewRow class="row menu">
+				<Label id="StartLabel" textid="" />
+			</TableViewRow>
+		</TableView>
+	</Window>
+</Alloy>

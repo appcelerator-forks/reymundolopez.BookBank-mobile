@@ -1,0 +1,6 @@
+<Alloy>
+	<Window id="Win">
+
+		<Label id="ll">Signup</Label>
+	</Window>
+</Alloy>
