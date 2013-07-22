@@ -6,6 +6,7 @@
 	"os:ios": {}, 
 	"os:android": {}, 
 	"dependencies": {
-		"com.orthlieb.navigationgroup": "1.0"
+		"com.orthlieb.navigationgroup": "1.0",
+		"ds.slideMenu":"0.1"
 	}
 }

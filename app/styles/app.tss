@@ -2,7 +2,10 @@
 	backgroundColor : "white"
 },
 "Label" : {
-
+	font : { fontSize : 14 }
+},
+"Button" : {
+	font : { fontSize : 14, fontWeight : "bold" }
 },
 "#Logo" : {
 	image : "/images/logo.png"
@@ -12,9 +15,24 @@
 	right : 10,
 	backgroundColor : "transparent",
 	height : 30,
-	font : { fontSize : 14 }
+	font : { fontSize : 14 },
+	borderColor : Alloy.Globals.COLORS.MINE_SHAFT,
+	borderWidth : 1,
+	borderRadius : 0.3
 },
 ".bigButton" : {
 	width : 300,
-	height : 30
-}
+	height : 40
+},
+".greenButton" : {
+	backgroundImage : "/images/btn_select_library.png",
+	backgroundSelectedImage : "/images/btn_pressed_library.png"
+},
+".blueButton" : {
+	backgroundImage : "/images/btn_take_photo.png",
+	backgroundSelectedImage : "/images/btn_take_photo_pressed.png"
+},
+".orangeButton" : {
+	backgroundImage : "/images/btn_orange_out.png",
+	backgroundSelectedImage : "/images/btn_orange_pressed.png"
+},

@@ -14,4 +14,11 @@
 	<string name="FORGOT_PASSWORD">Olvide mi password</string>
 	<string name="SIGNUP">Crear cuenta</string>
 	<string name="HINT_FIRSTNAME">rey@bookbank.com</string>
+
+	<string name="START">Inicio</string>
+	<string name="MY_BOOKS">Mis libros</string>
+	<string name="BUYED">Comprados</string>
+	<string name="RECOMMENDED">Recomendados</string>
+	<string name="WHISH_LISt">Lista de deseados</string>
+	<string name="MOST_WANTED">Los más buscados</string>
 </resources>

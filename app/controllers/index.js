@@ -1,7 +1,7 @@
 $.Win.open();
 
 $.SigninButton.addEventListener("click", function(e){
-	var win = Alloy.createController("dashboard");
+	var win = Alloy.createController("main");
 
 	win.getView().open({ animated : true });
 });

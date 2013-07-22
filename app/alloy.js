@@ -9,3 +9,15 @@
 // object. For example:
 //
 // Alloy.Globals.someGlobalFunction = function(){};
+
+Alloy.Globals.COLORS = {
+	WHITE 		: "#FFFFFF",
+	BLACK 		: "#000000",
+	ELF_GREEN 	: "#0B887C",
+    GALLERY   	: "#EAEAEA",
+	MINE_SHAFT 		: "#333333",
+    SILVER_CHALICE 	: "#AEAEAE",
+    DUSTY_GRAY	: "#999999",
+    BOULDER 	: "#7A7A7A",
+    PIZAZZ 		: "#FF8C00"
+};

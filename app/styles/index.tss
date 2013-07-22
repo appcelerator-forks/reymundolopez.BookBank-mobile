@@ -17,4 +17,7 @@
 },
 "#SigninButton" : {
 	top : 10
+},
+"#SignupLabel" : {
+	right : 10
 }

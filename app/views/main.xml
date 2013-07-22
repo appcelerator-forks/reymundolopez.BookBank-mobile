@@ -1,4 +1,5 @@
 <Alloy>
-	<View class="container">
-	</View>
+	<Window id="Win">
+		<Require type="widget" src="ds.slideMenu" id="ds"/>
+	</Window>
 </Alloy>

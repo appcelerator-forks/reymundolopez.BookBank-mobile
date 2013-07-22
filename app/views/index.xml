@@ -9,7 +9,7 @@
 
 			<TextField id="PasswordTextField" />
 
-			<Button id="SigninButton" class="bigButton" titleid="LOGIN" />
+			<Button id="SigninButton" class="bigButton blueButton" titleid="LOGIN" />
 
 			<Label id="SignupLabel" textid="SIGNUP" />
 

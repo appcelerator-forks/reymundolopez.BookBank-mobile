@@ -1,9 +1,22 @@
 <Alloy>
-	<Window id="Win">
-		<TableView id="MenuTableView">
-			<TableViewRow class="row menu">
-				<Label id="StartLabel" textid="" />
-			</TableViewRow>
-		</TableView>
-	</Window>
+	<TableViewSection>
+		<TableViewRow class="row menu">
+			<Label id="StartLabel" customView="search" textid="START" />
+		</TableViewRow>
+		<TableViewRow class="row menu">
+			<Label id="MyBooks" textid="MY_BOOKS" />
+		</TableViewRow>
+		<TableViewRow class="row menu">
+			<Label id="Buyed" textid="BUYED" />
+		</TableViewRow>
+		<TableViewRow class="row menu">
+			<Label id="Recommended" textid="RECOMMENDED" />
+		</TableViewRow>
+		<TableViewRow class="row menu">
+			<Label id="WhishList" textid="WHISH_LISt" />
+		</TableViewRow>
+		<TableViewRow class="row menu">
+			<Label id="MostWanted" textid="MOST_WANTED" />
+		</TableViewRow>
+	</TableViewSection>
 </Alloy>
